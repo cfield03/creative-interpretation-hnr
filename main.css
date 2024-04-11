@@ -1,0 +1,90 @@
+body{
+    font-family: FreeMono, monospace;
+    text-align: center;
+}
+
+.outside-elevator{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid black;
+    text-align: center;
+}
+
+
+.outside-elevator h1{
+    background-color: black;
+    color: white;
+    margin: -10px;
+    padding-bottom: 10px;
+
+}
+
+.outside-elevator h2{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.outside-elevator h3{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.outside-elevator a{
+    text-transform: uppercase;
+}
+
+a:visited{
+    color: blue;
+}
+
+/* choice pages */
+
+.container{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid black;
+    text-align: center;
+}
+
+.container a{
+    text-transform: uppercase;
+}
+.container p{
+    overflow-wrap: break-word;
+}
+
+.container img{
+    width: 50px;
+}
+
+.container h1{
+    padding: 10px;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    background-color: black;
+    color: white;
+}
+
+/* final pages */
+
+.final{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid black;
+    text-align: center;
+}
+
+.final h1{
+    padding: 10px;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    background-color: black;
+    color: white;
+}
+
+
